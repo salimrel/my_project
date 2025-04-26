@@ -32,3 +32,4 @@ C:\Users\Salim\source\repos\demo_sol\demo\obj\Debug\net8.0\demo.pdb
 C:\Users\Salim\source\repos\demo_sol\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
 C:\Users\Salim\source\repos\demo_sol\demo\obj\Debug\net8.0\ref\demo.dll
 C:\Users\Salim\source\repos\demo_sol\demo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Salim\source\repos\demo_sol\demo\obj\Debug\net8.0\demo.sourcelink.json
