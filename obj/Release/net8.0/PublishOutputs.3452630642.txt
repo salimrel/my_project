@@ -1,0 +1,7 @@
+C:\Users\Salim\source\repos\demo_sol\demo\obj\Release\net8.0\PubTmp\Out\demo.exe
+C:\Users\Salim\source\repos\demo_sol\demo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Salim\source\repos\demo_sol\demo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Salim\source\repos\demo_sol\demo\obj\Release\net8.0\PubTmp\Out\demo.dll
+C:\Users\Salim\source\repos\demo_sol\demo\obj\Release\net8.0\PubTmp\Out\demo.deps.json
+C:\Users\Salim\source\repos\demo_sol\demo\obj\Release\net8.0\PubTmp\Out\demo.runtimeconfig.json
+C:\Users\Salim\source\repos\demo_sol\demo\obj\Release\net8.0\PubTmp\Out\demo.pdb
